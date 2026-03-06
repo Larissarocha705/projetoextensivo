@@ -1,4 +1,4 @@
-📰 NOME DA SUA AGÊNCIA
+📰##ConectaNews
 Banner do projeto
 
 📋 Sobre o Projeto
@@ -26,7 +26,7 @@ Notícias escritas
 🔬 Feira de Ciências - link
 ⚽ Campeonato de Futebol - link
 Vídeo
-🎥 Web Jornal - Inteligência Artificial - [link do YouTube](https://youtu.be/iKQ98qlO5ko?si=z7R7Z42qguq3GBS9)
+🎥 Web Jornal - Inteligência Artificial - [link do YouTube](https://www.youtube.com/watch?v=iKQ98qlO5ko)
 
 Podcast
 🎙️ Audio gravado - link do áudio
